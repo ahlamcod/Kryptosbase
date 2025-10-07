@@ -1,2 +1,19 @@
 # Kryptosbase
 Kryptosbase is an interactive web app that lets users explore and experiment with classical encryption algorithms in an intuitive and visually engaging way. It was built to help students, enthusiasts, and developers understand the logic behind historical ciphers that shaped modern cryptography.
+✨ Features
+
+🔐 Multiple Classical Ciphers:
+Experiment with timeless algorithms such as:
+Caesar Cipher, Affine Cipher, Vigenère Cipher, Rail Fence Cipher, Columnar Transposition Cipher, Pigpen Cipher, and Morse Code.
+
+🧩 Interactive Encryption Interface:
+Input plaintext, choose cipher and keys, and instantly visualize the encrypted result.
+
+📜 Educational Insights:
+Each cipher includes a short explanation, historical background, and example calculations.
+
+🎨 Design Aesthetic:
+The overall look and feel of Kryptosbase is inspired by the mysterious and vintage atmosphere of the Mystery Case Files series by Big Fish Games, featuring a warm palette, classical textures, and handwritten typography.
+
+⚙️ Modern Web Stack:
+Built with React.js, Tailwind CSS, and React Router for a smooth, modern, and responsive experience.
