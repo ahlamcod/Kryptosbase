@@ -40,4 +40,6 @@ You can reach out for feedback, collaboration, or cryptography discussions via:
 
 ✉️ Email: kryptosbase@gmail.com
 
+![Project Screenshot](assets/kryptosbase.png)
+
 📩 Contact Form: available on the Kryptosbase website
