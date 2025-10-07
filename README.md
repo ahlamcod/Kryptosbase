@@ -31,3 +31,12 @@ Suggest UI improvements and fix rendering errors
 Enhance text flow and consistency in educational sections
 
 This collaboration streamlined development while maintaining authenticity and clarity in both design and writing.
+
+📬 Contact:
+
+We’d love to hear from you!
+You can reach out for feedback, collaboration, or cryptography discussions via:
+
+✉️ Email: kryptosbase@gmail.com
+
+📩 Contact Form: available on the Kryptosbase website
