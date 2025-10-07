@@ -1,0 +1,36 @@
+@import "tailwindcss";
+
+/* 👇 Custom fonts */
+@font-face {
+  font-family: 'Ruthie';
+  src: url('/fonts/Ruthie-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Baskervville';
+  src: url('/fonts/Baskervville-Italic.otf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'pigpen';
+  src: url('/fonts/pigpen-cipher.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* 👇 Optional global styles */
+html, body {
+  padding: 0;
+  margin: 0;
+  color: #CDC8B8;
+  font-family: 'Ruthie';
+}
+.footer, .algoText, .inputoutputText{
+  font-family: 'Baskervville';
+}
+
+
