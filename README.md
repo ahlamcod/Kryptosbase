@@ -17,3 +17,17 @@ The overall look and feel of Kryptosbase is inspired by the mysterious and vinta
 
 ⚙️ Modern Web Stack:
 Built with React.js, Tailwind CSS, and React Router for a smooth, modern, and responsive experience.
+
+🤖 OpenAI Collaboration:
+
+Throughout the development process, OpenAI’s ChatGPT (GPT-5) was used as a creative assistant to:
+
+Generate accurate cipher explanations and historical notes
+
+Help structure React components and optimize JSX code
+
+Suggest UI improvements and fix rendering errors
+
+Enhance text flow and consistency in educational sections
+
+This collaboration streamlined development while maintaining authenticity and clarity in both design and writing.
