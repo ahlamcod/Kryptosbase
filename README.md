@@ -1,16 +1,43 @@
-# React + Vite
+# Kryptosbase
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Kryptosbase is an interactive web app that lets users explore and experiment with classical encryption algorithms in an intuitive and visually engaging way. It was built to help students, enthusiasts, and developers understand the logic behind historical ciphers that shaped modern cryptography.
+✨ Features
 
-Currently, two official plugins are available:
+🔐 Multiple Classical Ciphers:
+Experiment with timeless algorithms such as:
+Caesar Cipher, Affine Cipher, Vigenère Cipher, Rail Fence Cipher, Columnar Transposition Cipher, Pigpen Cipher, and Morse Code.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🧩 Interactive Encryption Interface:
+Input plaintext, choose cipher and keys, and instantly visualize the encrypted result.
 
-## React Compiler
+📜 Educational Insights:
+Each cipher includes a short explanation, historical background, and example calculations.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+🎨 Design Aesthetic:
+The overall look and feel of Kryptosbase is inspired by the mysterious and vintage atmosphere of the Mystery Case Files series by Big Fish Games, featuring a warm palette, classical textures, and handwritten typography.
 
-## Expanding the ESLint configuration
+⚙️ Modern Web Stack:
+Built with React.js, Tailwind CSS, and React Router for a smooth, modern, and responsive experience.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🤖 OpenAI Collaboration:
+
+Throughout the development process, OpenAI’s ChatGPT (GPT-5) was used as a creative assistant to:
+
+Generate accurate cipher explanations and historical notes
+
+Help structure React components and optimize JSX code
+
+Suggest UI improvements and fix rendering errors
+
+Enhance text flow and consistency in educational sections
+
+This collaboration streamlined development while maintaining authenticity and clarity in both design and writing.
+
+📬 Contact:
+
+We’d love to hear from you!
+You can reach out for feedback, collaboration, or cryptography discussions via:
+
+✉️ Email: kryptosbase@gmail.com
+
+📩 Contact Form: available on the Kryptosbase website
